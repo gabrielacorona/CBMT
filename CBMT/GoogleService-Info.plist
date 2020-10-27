@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>969817239692-amcoko1s19kpitp84d9psha40g597ghm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.969817239692-amcoko1s19kpitp84d9psha40g597ghm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTeM5oEjXIUNUWKFsxEGhy2TLLujWdqOU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>969817239692</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.carooobregon.CBMT</string>
+	<key>PROJECT_ID</key>
+	<string>cbmt-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cbmt-ios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:969817239692:ios:bbcfb8b27d448aba254ba9</string>
+	<key>DATABASE_URL</key>
+	<string>https://cbmt-ios.firebaseio.com</string>
+</dict>
+</plist>
